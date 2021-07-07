@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:#ffffff;
+}
+
+body:hover{
+    background-color: black;
+}
+
+h1{
+    font-size: 50px;
+    border: 3px solid gray;
+    max-width: fit-content;
+    padding: 0px 30px;
+    background-color: white;
+}
+
+h1:hover{
+    background-color: black;
+    color: white;
+}
+
+span{
+    font-size: 100px;
+}
+
+.hero{
+    height: 100vh;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
